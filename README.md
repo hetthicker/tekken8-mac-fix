@@ -32,7 +32,7 @@ The game runs, and both online ranked matches and player matches with friends wo
    - Enhanced sync: **None**
 4. Quit Steam and Whisky, then in Terminal:
    ```
-   git clone <this repo> && cd tekken8-mac-fix
+   git clone https://github.com/hetthicker/tekken8-mac-fix.git && cd tekken8-mac-fix
    bash install.sh
    ```
    To also fix Steam's black window, pass your bottle's path. In Whisky, right-click the bottle and choose "Show in Finder", then drag the folder into Terminal after `bash install.sh `:
