@@ -5,7 +5,7 @@ A fix that lets **TEKKEN 8** (Steam app 1778820) run on Apple Silicon Macs throu
 It also fixes Steam's black window.
 
 Tested on an M4 Pro, macOS 26, Whisky 3.7.0, engine **v4.6.4-beta.1**, GPTK 4.0 beta 3.
-The game runs and online ranked matches work. Player matches with friends were still being tested (see the VPN note below).
+The game runs, and both online ranked matches and player matches with friends work. For matches with friends, turn off VPNs such as Cloudflare WARP (see below).
 
 ## What it fixes
 
